@@ -68,7 +68,7 @@ function Services() {
         </ServiceItem>
         <ServiceItem>
           <Icon><MdDesignServices/></Icon>
-          UI/UX Design          
+          UI/UX Design         
         </ServiceItem>
       </ServiceList>
     </Container>
