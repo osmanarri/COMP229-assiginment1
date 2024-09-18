@@ -64,7 +64,7 @@ function Services() {
         </ServiceItem>
         <ServiceItem>
           <Icon><FaMobileAlt/></Icon>
-          Mobile App Development          
+          Mobile App Development         
         </ServiceItem>
         <ServiceItem>
           <Icon><MdDesignServices/></Icon>
